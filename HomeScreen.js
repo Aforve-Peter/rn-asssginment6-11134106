@@ -4,7 +4,7 @@ import OptionsCard from './OptionsCard';
 import { CartContext } from './CartContext';
 
 
-export default function HomeScreen ( { navigation } ){
+export default function Home ( { navigation } ){
     const { cart, addToCart, removeFromCart } = useContext(CartContext);
 
     const options = [
