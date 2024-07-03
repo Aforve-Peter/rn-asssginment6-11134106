@@ -9,7 +9,7 @@ To get started with MyStorageApp, clone the repository from GitHub, install the 
 
 MyStorageApp is open-source and licensed under the MIT License. We welcome contributions, so feel free to fork the repository and submit pull requests.
 
-screenshots
+screenshorts
 
 <img width="174" alt="sshot 1" src="https://github.com/Aforve-Peter/rn-asssginment6-11134106/assets/151939336/0fed09b9-0a91-40e5-afee-21da13daf784">
 <img width="176" alt="sshot 2" src="https://github.com/Aforve-Peter/rn-asssginment6-11134106/assets/151939336/2c581985-6378-48d0-98c9-2cc3fbb8b359">
