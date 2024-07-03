@@ -2,7 +2,7 @@ import React, { useContext } from 'react';
 import { View, Text, FlatList, Button, StyleSheet, Image, TouchableOpacity } from 'react-native';
 import { CartContext } from './CartContext';
 
-export default function Cart({ route, navigation }) {
+export default function CartScreen({ route, navigation }) {
     const { cart, removeFromCart } = useContext(CartContext);
 
     return (

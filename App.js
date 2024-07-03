@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import Home from './Home';
+import Home from './HomeScreen';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
-import Cart from './Cart';
+import Cart from './CartScreen';
 import { CartProvider } from './CartContext';
 
 const Stack = createStackNavigator();
